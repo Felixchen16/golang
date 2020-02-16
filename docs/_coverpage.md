@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="https://raw.githubusercontent.com/Felixchen16/golang/master/docs/go.jpg?x-oss-process=style/may">
+<img width="180px" style="border-radius: 50%" bor src="https://github.com/Felixchen16/golang/blob/master/docs/pic/go.jpg?raw=true?x-oss-process=style/may">
 
 # Go语言编程入门
 
