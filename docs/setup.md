@@ -22,7 +22,7 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 
 ### Windows安装
 
-##### [观看安装配置视频讲解](https://www.bilibili.com "观看安装配置视频讲解")
+##### [观看安装配置视频讲解](https://www.bilibili.com/video/av89978916?p=2 "观看安装配置视频讲解")
 
 此安装实例以 `64位win7` 系统安装 `go1.13.8.windows-amd64`和`Git-2.25.0-64-bit`为例。
 
